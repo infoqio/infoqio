@@ -22,13 +22,13 @@ At InfoQio, we are committed to delivering top-notch cyber security training and
 
 ## Our Team
 
-###  Shakir - Owner and CEO
+###  Shakir - Founder and CEO
 Shakir is the visionary founder and CEO of InfoQio. Currently pursuing his postgraduate studies, Shakir holds a Bachelor's degree in Computer Applications (BCA). His passion for cyber security drives the institute's mission to educate and empower the next generation of cyber security experts.
 
-###   Abhijith - Owner and COO
+###   Abhijith - Founder and COO
 Abhijith brings a wealth of experience in cyber security education and practical expertise as a penetration tester. Formerly working with Sofit Company, he is a renowned bug bounty hunter who has identified critical vulnerabilities in Google. Abhijith oversees the operational aspects of InfoQio, ensuring the highest standards of training and service delivery.
 
-###   Ashik - Owner and CTO
+###   Ashik - Founder and CTO
 As the Chief Technology Officer, Ashik is responsible for the technological direction and strategy at InfoQio. A freelance working professional in cyber security, Ashik is also an accomplished bug bounty hunter with notable successes, including finding vulnerabilities in Google. His technical acumen and innovative approach are instrumental in shaping the institute's curriculum and research initiatives.
 
 ---
