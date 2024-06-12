@@ -28,7 +28,7 @@ Shakir is the visionary founder and CEO of InfoQio. Currently pursuing his postg
 ### <img src="https://mallucampaign.in/images/img_1718197193.jpg" alt="Abhijith's Photo" width="100" height="100">  Abhijith - Owner and COO
 Abhijith brings a wealth of experience in cyber security education and practical expertise as a penetration tester. Formerly working with Sofit Company, he is a renowned bug bounty hunter who has identified critical vulnerabilities in Google. Abhijith oversees the operational aspects of InfoQio, ensuring the highest standards of training and service delivery.
 
-### <img src="https://mallucampaign.in/images/img_1718197191.jpg" alt="Ashik's Photo" width="100" height="100"> Ashik - Owner and CTO
+### <img src="https://mallucampaign.in/images/img_1718205438.jpg" alt="Ashik's Photo" width="100" height="100"> Ashik - Owner and CTO
 As the Chief Technology Officer, Ashik is responsible for the technological direction and strategy at InfoQio. A freelance working professional in cyber security, Ashik is also an accomplished bug bounty hunter with notable successes, including finding vulnerabilities in Google. His technical acumen and innovative approach are instrumental in shaping the institute's curriculum and research initiatives.
 
 ---
