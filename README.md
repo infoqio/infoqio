@@ -1,6 +1,6 @@
 # InfoQio Cyber Security Institute
 
-![InfoQio Logo](http://happy-mule-33.telebit.io/esulja.jpg)
+![InfoQio Logo](https://mallucampaign.in/images/img_1718197187.jpg)
 
 Welcome to **InfoQio Cyber Security Institute**, your premier destination for cutting-edge cyber security education and services. Located in the serene town of Kanjirapuzha, Palakkad, Kerala (PIN: 678593), InfoQio is dedicated to fostering a secure digital environment through education, innovation, and practical solutions.
 
