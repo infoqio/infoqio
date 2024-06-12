@@ -1,6 +1,6 @@
 # InfoQio Cyber Security Institute
 
-![InfoQio Logo](https://via.placeholder.com/150)
+![InfoQio Logo](http://happy-mule-33.telebit.io/esulja.jpg)
 
 Welcome to **InfoQio Cyber Security Institute**, your premier destination for cutting-edge cyber security education and services. Located in the serene town of Kanjirapuzha, Palakkad, Kerala (PIN: 678593), InfoQio is dedicated to fostering a secure digital environment through education, innovation, and practical solutions.
 
@@ -22,13 +22,13 @@ At InfoQio, we are committed to delivering top-notch cyber security training and
 
 ## Our Team
 
-### ![Shakir's Photo](https://via.placeholder.com/100) Shakir - Owner and CEO
+### ![Shakir's Photo](http://happy-mule-33.telebit.io/rwrpfk.jpg) Shakir - Owner and CEO
 Shakir is the visionary founder and CEO of InfoQio. Currently pursuing his postgraduate studies, Shakir holds a Bachelor's degree in Computer Applications (BCA). His passion for cyber security drives the institute's mission to educate and empower the next generation of cyber security experts.
 
-### ![Abhijith's Photo](https://via.placeholder.com/100) Abhijith - COO
+### ![Abhijith's Photo](http://happy-mule-33.telebit.io/5ju449.jpg) Abhijith - Owner and COO
 Abhijith brings a wealth of experience in cyber security education and practical expertise as a penetration tester. Formerly working with Sofit Company, he is a renowned bug bounty hunter who has identified critical vulnerabilities in Google. Abhijith oversees the operational aspects of InfoQio, ensuring the highest standards of training and service delivery.
 
-### ![Ashik's Photo](https://via.placeholder.com/100) Ashik - CTO
+### ![Ashik's Photo](http://happy-mule-33.telebit.io/lao84i.jpg) Ashik - Owner and CTO
 As the Chief Technology Officer, Ashik is responsible for the technological direction and strategy at InfoQio. A freelance working professional in cyber security, Ashik is also an accomplished bug bounty hunter with notable successes, including finding vulnerabilities in Google. His technical acumen and innovative approach are instrumental in shaping the institute's curriculum and research initiatives.
 
 ---
